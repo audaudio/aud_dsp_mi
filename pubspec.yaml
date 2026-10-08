@@ -1,6 +1,6 @@
 name: aud_dsp_mi
 description: "Mutable Instruments STM32 DSP ports as nodes of the Audanika Audio Engine: macro oscillator, modal resonator, granular processor"
-version: 0.0.1
+version: 0.0.2
 publish_to: none
 homepage: https://github.com/audaudio/aud_dsp_mi
 repository: https://github.com/audaudio/aud_dsp_mi
