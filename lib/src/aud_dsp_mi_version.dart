@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_dsp_mi` package.
-const String audDspMiVersion = '0.1.0';
+const String audDspMiVersion = '0.1.1';
